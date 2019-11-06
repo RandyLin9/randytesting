@@ -411,18 +411,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-// #fh5co-services, 
-// #fh5co-explore, 
-// #fh5co-team, 
-// #fh5co-footer,
-// #fh5co-work, 
-// #fh5co-counters,
-// #fh5co-pricing{
-// 	padding: 8em 0;
-// 	@media screen and (max-width: $screen-sm) {
-// 		padding: 3em 0;
-// 	}
-// }
+#fh5co-services, 
+#fh5co-explore, 
+#fh5co-team, 
+#fh5co-footer,
+#fh5co-work, 
+#fh5co-counters,
+#fh5co-pricing{
+	padding: 8em 0;
+	@media screen and (max-width: $screen-sm) {
+		padding: 3em 0;
+	}
+}
 #fh5co-services{
 	padding-bottom: 0;
 }
